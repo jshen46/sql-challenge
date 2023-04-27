@@ -1,2 +1,2 @@
 # sql-challenge
-This is Christina's homework
+This is Christina's homework for sql-challenge
